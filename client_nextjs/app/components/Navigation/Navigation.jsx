@@ -7,6 +7,10 @@ const links = [{
 }, {
     label: 'About',
     route: '/about'
+},
+{
+    label: 'Movies',
+    route: '/movies'
 }]
 
 
